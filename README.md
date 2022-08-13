@@ -7,7 +7,7 @@
 - 📳 No presente momento, estou aprofudando meus conhecimentos em desenvolvimento mobile (Android e IOS);
 - 💬 Pergunte-me sobre qualquer coisa;
 - 🌐 Acesse meu portfólio de business intelligence [Deusdedith Jhunior](https://deusdedithjhunior.github.io/DeusdeditJunior-Portfolio-Projetos/) e veja meus repositórios no [GitHub](https://github.com/DeusdedithJhunior?tab=repositories);
-- 📫 Entre em contato comigo por [E-mail](deusdedithjhunior@gmail.com) ou [LinkedIn](https://www.linkedin.com/in/deusdedit-junior/)
+- 📫 Entre em contato comigo por [E-mail](mailto:deusdedithjhunior@gmail.com) ou [LinkedIn](https://www.linkedin.com/in/deusdedit-junior/)
 - 🔭 Curiosidade: Eu adoro conteúdo de programação e tecnologia!.
 
 <div align="center">
