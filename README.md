@@ -3,7 +3,7 @@
 
 - 🏤 Atualmente trabalho como Analista de Planejamento e Gestão em uma grande Empresa de Supermercados de Atacado e Varejo;
 - 📊 Sou especialista nas ferramentas Power BI, Power Query e Microsoft Excel;
-- 👨‍💻 Estou aprendendo atualmente sobre linguagens SQL e Python análise de dados;
+- 👨‍💻 Estou aprendendo atualmente sobre linguagens SQL e Python para análise de dados;
 - 📳 No presente momento, estou aprofudando meus conhecimentos em desenvolvimento mobile (Android e IOS);
 - 💬 Pergunte-me sobre qualquer coisa;
 - 🌐 Acesse meu portfólio de business intelligence [Deusdedith Jhunior](https://deusdedithjhunior.github.io/DeusdeditJunior-Portfolio-Projetos/) e veja meus repositórios no [GitHub](https://github.com/DeusdedithJhunior?tab=repositories);
