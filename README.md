@@ -1,16 +1,30 @@
-### Hi there 👋
+## Olá. Seja bem-vindo, me chamo Deusdedit Junior 👋
 
-<!--
-**DeusdedithJhunior/DeusdedithJhunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🏤 Atualmente trabalho como Analista de Planejamento e Gestão em uma grande Empresa de Supermercados de Atacado e Varejo;
+- 📊 Sou especialista nas ferramentas Power BI, Power Query e Microsoft Excel;
+- 👨‍💻 Estou aprendendo atualmente sobre linguagens SQL e Python análise de dados;
+- 📳 No presente momento, estou aprofudando meus conhecimentos em desenvolvimento mobile (Android e IOS);
+- 💬 Pergunte-me sobre qualquer coisa;
+- 🌐 Acesse meu portfólio de business intelligence [Deusdedith Jhunior](https://deusdedithjhunior.github.io/DeusdeditJunior-Portfolio-Projetos/) e veja meus repositórios no [GitHub](https://github.com/DeusdedithJhunior?tab=repositories);
+- 📫 Entre em contato comigo por [E-mail](deusdedithjhunior@gmail.com) ou [LinkedIn](https://www.linkedin.com/in/deusdedit-junior/)
+- 🔭 Curiosidade: Eu adoro conteúdo de programação e tecnologia!.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/DeusdedithJhunior ">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeusdedithJhunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeusdedithJhunior&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Junior-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.youtube.com/user/jhuninhuhr" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
