@@ -1,7 +1,7 @@
 ## Olá. Seja bem-vindo, me chamo Deusdedit Junior 👋
 
 
-- 🏤 Atualmente trabalho como Analista de Planejamento e Gestão em uma grande Empresa de Supermercados de Atacado e Varejo;
+- 🏤 Atualmente trabalho como Supervisor Operacional em uma grande Empresa de Supermercados de Atacado e Varejo;
 - 📊 Sou especialista nas ferramentas Power BI, Power Query e Microsoft Excel;
 - 👨‍💻 Tenho conhecimentos sobre linguagens SQL e Python para análise de dados;
 - 📱 No presente momento, estou estudando sobre desenvolvimento mobile (Android e IOS);
