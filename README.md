@@ -26,12 +26,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block">
+  <img src= "https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="excel" width="40" height="40" align="center"/>
+   <img src= "https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="powerbi" width="40" height="40" align="center"/>
   <img align="center" alt="Junior-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Junior-R" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="Junior-Jupyter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="Junior-R" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="Junior-Anaconda" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg">
   <img align="center" alt="Junior-mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Junior-microsoftsqlserver" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="Junior-microsoftsqlserver" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg">
   <img align="center" alt="Junior-postgresql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Junior-dart" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Junior-flutter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
