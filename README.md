@@ -7,8 +7,7 @@
 - 📱 No presente momento, estou estudando sobre desenvolvimento mobile (Android e IOS);
 - 💬 Pergunte-me sobre qualquer coisa;
 - 🌐 Acesse meu portfólio de business intelligence [Deusdedith Jhunior](https://deusdedithjhunior.github.io/DeusdeditJunior-Portfolio-Projetos/);
-- 📫 Entre em contato comigo por [E-mail](mailto:deusdedithjhunior@gmail.com)
-- 🔭 Curiosidade: Eu adoro conteúdo de programação e tecnologia!.
+- 🔭 Curiosidade: Eu adoro conteúdo de programação e tecnologia!
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
