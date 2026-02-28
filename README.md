@@ -6,7 +6,7 @@
 - 👨‍💻 Tenho conhecimentos sobre linguagens SQL e Python para análise de dados;
 - 📱 No presente momento, estou estudando sobre desenvolvimento mobile (Android e IOS);
 - 💬 Pergunte-me sobre qualquer coisa;
-- 🌐 Acesse meu portfólio de business intelligence [Deusdedith Jhunior](https://deusdedithjhunior.github.io/DeusdeditJunior-Portfolio-Projetos/);
+- 🌐 Acesse meu portfólio de business intelligence [Deusdedith Jhunior](https://deusdedithjhunior.github.io/DeusdeditJunior-Portfolio-Projetos-BI/);
 - 🔭 Curiosidade: Eu adoro conteúdo de programação e tecnologia!
 
 <h3 align="left">Conecte-se comigo:</h3>
@@ -32,10 +32,4 @@
   <img align="center" alt="Junior-flutter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" align="center"/>
 </div>
-
-  
-  ##
- 
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
