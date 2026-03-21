@@ -1,10 +1,9 @@
 ## Olá. Seja bem-vindo, me chamo Deusdedit Junior 👋
 
 
-- 🏤 Atualmente trabalho como Supervisor Operacional em uma grande Empresa de Supermercados de Atacado e Varejo;
-- 📊 Sou especialista nas ferramentas Power BI, Power Query e Microsoft Excel;
-- 👨‍💻 Tenho conhecimentos sobre linguagens SQL e Python para análise de dados;
-- 💬 Pergunte-me sobre qualquer coisa;
+- 🏤 Atualmente trabalho como Analista de Dados e liderança técnica (Tech Leader), responsável por relatórios estratégicos;
+- 📊 Sou especialista nas ferramentas Microsoft Excel, Power Query e Power BI;
+- 👨‍💻 Estou aprofudando os meus conhecimentos sobre linguagens SQL e Python para análise de dados;
 - 🌐 Acesse meu portfólio de business intelligence [Deusdedith Jhunior](https://deusdedithjhunior.github.io/DeusdeditJunior-Portfolio-Projetos-BI/);
 - 🔭 Curiosidade: Eu adoro conteúdo de programação e tecnologia!
 
